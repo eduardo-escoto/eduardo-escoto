@@ -1,5 +1,5 @@
 ### Hey! I'm Ed! :3
-
+I'm into numerical computing and bayesian statistics!
 <!--
 **eduardo-exists/eduardo-exists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
