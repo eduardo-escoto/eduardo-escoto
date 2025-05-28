@@ -1,5 +1,11 @@
 ### Hey! I'm Ed! :3
-I'm into numerical computing, bayesian statistics, and Deep Learning and Reinforcement Learning.
+I'm currently a First year PhD Student working on Generative Music, Recommender Systems, and Multi-Modal Models. I'm a big fan of hyperpop, tabletop rpgs, and spending more time trying to automate silly tasks than they would usually take.
+
+#### Useful Links:
+* [Website](https://eduardo-escoto.com)
+* [LinkedIn](https://linkedin.com/in/eduardo-escoto)
+* [McAuley Lab](https://mcauleylab.ucsd.edu/)
+* [UCSD Musaic](https://ucsd-musaic.github.io/)
 <!--
 **eduardo-exists/eduardo-exists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
