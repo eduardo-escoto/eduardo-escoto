@@ -1,5 +1,5 @@
 ### Hey! I'm Ed! :3
-I'm currently a First year PhD Student working on Generative Music, Recommender Systems, and Multi-Modal Models. I'm a big fan of hyperpop, tabletop rpgs, and spending more time trying to automate silly tasks than they would usually take.
+I'm currently a First year PhD Student working on Generative Music, Recommender Systems, and Multi-Modal Models. As of now, I'm pretty interested in Flow Matching and Diffusion models and how to induce notions of generative controllability. I'm a big fan of hyperpop, tabletop rpgs, and spending more time trying to automate silly tasks than they would usually take.
 
 #### Useful Links:
 * [Website](https://eduardo-escoto.com)
